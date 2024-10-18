@@ -1,4 +1,2 @@
-import { b } from "./file2";
-
-
+import { b } from "./file2"
 console.log(b)
